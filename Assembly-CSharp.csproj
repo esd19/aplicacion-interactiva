@@ -64,7 +64,11 @@
     <Compile Include="Assets\DragSprite.cs" />
     <Compile Include="Assets\scripts\characterAnimation.cs" />
     <Compile Include="Assets\characterAnimations.cs" />
+    <Compile Include="Assets\scripts\GameManager.cs" />
+    <Compile Include="Assets\scripts\PlayerCollision.cs" />
     <Compile Include="Assets\scripts\canvas-2.cs" />
+    <Compile Include="Assets\scripts\PlayerMovent.cs" />
+    <Compile Include="Assets\scripts\FloorTextureGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
